@@ -1,0 +1,26 @@
+"""Крок 11
+Тепер ви будете постійно звужувати інтервал, знаходячи середину поточного інтервалу та порівнюючи квадрат середини з шуканим значенням.
+
+Для цього створіть цикл for в межах блоку else, який виконується не більше max_iterations разів.
+
+До циклу застосуйте функцію range, яка генерує послідовність чисел, над якою можна ітерувати. Синтаксис такий: range(start, stop, step), де start — початкове ціле число (включно), stop — останнє ціле число (виключно), а step — це різниця між числом та попереднім числом множини.
+
+Також використайте _ як змінну циклу. _ поводиться як заповнювач, що корисно, коли потрібно використовувати змінну, але насправді не потрібне її значення."""
+
+def square_root_bisection(square_target, tolerance=1e-7, max_iterations=100):
+    if square_target < 0:
+        raise ValueError('Square root of negative number is not defined in real numbers')
+    if square_target == 1:
+        root = 1
+        print(f'The square root of {square_target} is 1')
+    elif square_target == 0:
+        root = 0
+        print(f'The square root of {square_target} is 0')
+
+    else:
+        low = 0
+        high = max(1, square_target)
+        root = None
+
+        for _ in range(max_iterations):
+            pass
