@@ -4,33 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd6ca7c-298e-42df-85f0-0e5e61aaee3d" name="Changes" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonHome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonHome.iml" afterDir="false" />
+    <list default="true" id="cbd6ca7c-298e-42df-85f0-0e5e61aaee3d" name="Changes" comment="All done: Regular_E">
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn string manipulation/Task 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_string_manipulation/Task_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +65,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
+        <option value="SQL File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -75,16 +102,28 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Finish_code.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task 25.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task 30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_19 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_30.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_31.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_34.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_42.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_50.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_52.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_54.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_55.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_67.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_9.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;FreeCodeCamp&quot;,
@@ -98,11 +137,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\A\PycharmProjects\PythonHome\Pathfinding_Algorithm" />
+      <recent name="C:\Users\A\PycharmProjects\PythonHome\Luhn_Algorithm" />
       <recent name="C:\Users\A\PycharmProjects\PythonHome\Learn string manipulation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_67">
-    <configuration name="Task_50" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task_30">
+    <configuration name="Task_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,12 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_string_manipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_string_manipulation/Task_50.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,12 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_string_manipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_string_manipulation/Task_52.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_54" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,12 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_string_manipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_string_manipulation/Task_54.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,12 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_string_manipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_string_manipulation/Task_55.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_67" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,12 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_string_manipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_string_manipulation/Task_67.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,18 +255,17 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_67" />
-        <item itemvalue="Python.Task_54" />
-        <item itemvalue="Python.Task_55" />
-        <item itemvalue="Python.Task_52" />
-        <item itemvalue="Python.Task_50" />
+        <item itemvalue="Python.Task_30" />
+        <item itemvalue="Python.Task_12" />
+        <item itemvalue="Python.Task_15" />
+        <item itemvalue="Python.Task_9" />
+        <item itemvalue="Python.Task_7" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
         <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
@@ -256,7 +291,41 @@
       <workItem from="1754132689609" duration="1981000" />
       <workItem from="1754228720406" duration="2324000" />
       <workItem from="1754295412516" duration="532000" />
-      <workItem from="1754303278487" duration="2461000" />
+      <workItem from="1754303278487" duration="5279000" />
+      <workItem from="1754325208713" duration="1148000" />
+      <workItem from="1754393306951" duration="3125000" />
+      <workItem from="1754477709445" duration="869000" />
+      <workItem from="1754571714719" duration="1056000" />
+      <workItem from="1754644115565" duration="2433000" />
+      <workItem from="1754744321118" duration="731000" />
+      <workItem from="1754847484744" duration="2490000" />
+      <workItem from="1754912365806" duration="3496000" />
+      <workItem from="1754992922577" duration="812000" />
+      <workItem from="1755074596378" duration="1466000" />
+      <workItem from="1755195621056" duration="871000" />
+      <workItem from="1755260082993" duration="5097000" />
+      <workItem from="1755349259051" duration="3552000" />
+      <workItem from="1755359061321" duration="5000" />
+      <workItem from="1755511228369" duration="4627000" />
+      <workItem from="1755595449721" duration="3033000" />
+      <workItem from="1755692975186" duration="3878000" />
+      <workItem from="1755774560924" duration="1059000" />
+      <workItem from="1755943252725" duration="6262000" />
+      <workItem from="1756376421856" duration="79000" />
+      <workItem from="1756569673747" duration="951000" />
+      <workItem from="1756570754730" duration="90000" />
+      <workItem from="1756632467795" duration="1056000" />
+      <workItem from="1756706406203" duration="736000" />
+      <workItem from="1756785457131" duration="1767000" />
+      <workItem from="1756873736419" duration="1288000" />
+      <workItem from="1756918528601" duration="648000" />
+      <workItem from="1756922102262" duration="5000" />
+      <workItem from="1756961478858" duration="1178000" />
+      <workItem from="1757050743874" duration="4536000" />
+      <workItem from="1757152296431" duration="1421000" />
+      <workItem from="1757303314327" duration="1863000" />
+      <workItem from="1757394751136" duration="1163000" />
+      <workItem from="1757484039670" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="add readme file">
       <option name="closed" value="true" />
@@ -282,7 +351,71 @@
       <option name="project" value="LOCAL" />
       <updated>1750188071299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1754312719415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754312719415</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1754312848139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754312848139</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Learn string manipulation - FinishCode.py">
+      <option name="closed" value="true" />
+      <created>1754312979870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754312979870</updated>
+    </task>
+    <task id="LOCAL-00007" summary="All done: Luhn_Algorithm">
+      <option name="closed" value="true" />
+      <created>1754671292818</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754671292818</updated>
+    </task>
+    <task id="LOCAL-00008" summary="All done: Lambda_F">
+      <option name="closed" value="true" />
+      <created>1755262328188</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755262328188</updated>
+    </task>
+    <task id="LOCAL-00009" summary="All done: List_Comprehensions">
+      <option name="closed" value="true" />
+      <created>1755515736646</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755515736646</updated>
+    </task>
+    <task id="LOCAL-00010" summary="All done: Bisection_Root">
+      <option name="closed" value="true" />
+      <created>1755704269631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755704269632</updated>
+    </task>
+    <task id="LOCAL-00011" summary="All done: Regular_E">
+      <option name="closed" value="true" />
+      <created>1757568687054</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757568687054</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,8 +434,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add readme file" />
+    <MESSAGE value="All done. 96 tasks." />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="." />
+    <MESSAGE value="Learn string manipulation - FinishCode.py" />
+    <MESSAGE value="All done: Luhn_Algorithm" />
+    <MESSAGE value="All done: Lambda_F" />
+    <MESSAGE value="All done: List_Comprehensions" />
+    <MESSAGE value="All done: Bisection_Root" />
+    <MESSAGE value="All done: Regular_E" />
+    <option name="LAST_COMMIT_MESSAGE" value="All done: Regular_E" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -321,15 +462,19 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonHome$Task_50.coverage" NAME="Task_50 Coverage Results" MODIFIED="1753883982455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
-    <SUITE FILE_PATH="coverage/PythonHome$Task_31.coverage" NAME="Task_31 Coverage Results" MODIFIED="1751390703050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
-    <SUITE FILE_PATH="coverage/PythonHome$Task_52.coverage" NAME="Task_52 Coverage Results" MODIFIED="1753884123053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_42.coverage" NAME="Task_42 Coverage Results" MODIFIED="1757087234291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regular_Expressions" />
     <SUITE FILE_PATH="coverage/PythonHome$Task_67.coverage" NAME="Task_67 Coverage Results" MODIFIED="1754072763746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_52.coverage" NAME="Task_52 Coverage Results" MODIFIED="1753884123053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
     <SUITE FILE_PATH="coverage/PythonHome$Task_35.coverage" NAME="Task_35 Coverage Results" MODIFIED="1753800816288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
-    <SUITE FILE_PATH="coverage/PythonHome$Task_25.coverage" NAME="Task 25 Coverage Results" MODIFIED="1751187224564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn string manipulation" />
-    <SUITE FILE_PATH="coverage/PythonHome$Task_30.coverage" NAME="Task 30 Coverage Results" MODIFIED="1753800130301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_20.coverage" NAME="Task_20 Coverage Results" MODIFIED="1754478319109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Luhn_Algorithm" />
     <SUITE FILE_PATH="coverage/PythonHome$Task_54.coverage" NAME="Task_54 Coverage Results" MODIFIED="1754072739389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
     <SUITE FILE_PATH="coverage/PythonHome$Task_55.coverage" NAME="Task_55 Coverage Results" MODIFIED="1753884702117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_19__1_.coverage" NAME="Task_19 (1) Coverage Results" MODIFIED="1755513797526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List_Comprehensions" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_50.coverage" NAME="Task_50 Coverage Results" MODIFIED="1753883982455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_21.coverage" NAME="Task_21 Coverage Results" MODIFIED="1754993394838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda_Functions" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_31.coverage" NAME="Task_31 Coverage Results" MODIFIED="1751390703050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_25.coverage" NAME="Task 25 Coverage Results" MODIFIED="1751187224564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn string manipulation" />
+    <SUITE FILE_PATH="coverage/PythonHome$Task_30.coverage" NAME="Task_30 Coverage Results" MODIFIED="1756787190820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regular_Expressions" />
     <SUITE FILE_PATH="coverage/PythonHome$Task_34.coverage" NAME="Task_34 Coverage Results" MODIFIED="1753800585922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_string_manipulation" />
   </component>
 </project>
