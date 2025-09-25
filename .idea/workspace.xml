@@ -4,58 +4,386 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd6ca7c-298e-42df-85f0-0e5e61aaee3d" name="Changes" comment="All done: Regular_E">
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_9.py" afterDir="false" />
+    <list default="true" id="cbd6ca7c-298e-42df-85f0-0e5e61aaee3d" name="Changes" comment="All done: P_Algorithm">
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_Recursion/Task_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemProgramming/PracticalWork1/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemProgramming/PracticalWork1/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemProgramming/PracticalWork1/Task_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Finish_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Finish_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection_Root/Task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Bisection_Root/Task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Finish_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Finish_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_27.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_28.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_29.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_30.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_32.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_33.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_34.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_35.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_36.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_37.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_38.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_39.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_41.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_42.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_43.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_44.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_45.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_45.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_46.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_47.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_48.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_49.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_50.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_51.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_52.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Functions/Task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Lambda_Functions/Task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/FinishCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/FinishCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_27.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_28.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_29.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_30.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_32.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_33.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_34.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_35.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_36.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_37.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_38.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_39.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_41.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_42.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_43.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_44.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_45.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_45.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_46.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_47.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_48.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_49.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_50.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_51.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_52.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_53.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_54.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_55.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_55.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_56.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_56.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_57.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_57.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_58.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_58.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_59.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_59.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_60.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_60.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_61.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_61.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_62.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_62.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_63.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_63.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_64.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_65.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_65.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_66.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_66.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_67.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_67.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_68.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_68.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_69.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_69.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_70.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_70.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_71.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_71.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_72.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_72.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_73.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_73.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_74.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_74.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_75.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_75.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_76.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_76.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_77.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_77.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_78.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_78.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_79.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_79.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_80.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_80.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_81.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_81.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_82.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_82.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_83.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_83.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_84.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_84.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_85.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_85.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_86.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_86.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_87.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_87.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_88.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_89.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_89.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_90.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_90.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_91.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_91.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_92.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_92.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_93.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_93.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_94.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_94.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_95.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_95.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_string_manipulation/Task_96.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_96.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Finish_Code.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Finish_Code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Comprehensions/Task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/List_Comprehensions/Task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/FinishCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/FinishCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_27.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_28.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_29.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_30.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_32.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_33.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_34.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_35.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luhn_Algorithm/Task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Luhn_Algorithm/Task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/FinishCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/FinishCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_27.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_28.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_29.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_30.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_32.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_33.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_34.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_35.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_36.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_37.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_38.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_39.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_41.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_42.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_43.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_44.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_45.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_45.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_46.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_47.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_48.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_49.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_50.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_51.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_52.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_53.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_54.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_55.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_55.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_56.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_56.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_57.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_57.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_58.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_58.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_59.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_59.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pathfinding_Algorithm/Task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Pathfinding_Algorithm/Task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Finish_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Finish_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_27.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_28.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_29.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_30.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_32.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_33.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_34.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_35.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_36.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_37.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_38.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_39.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_41.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_42.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_43.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_44.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_45.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_45.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_46.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_47.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_48.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_49.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_50.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_51.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_52.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_53.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_54.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_55.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_55.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_56.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_56.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_57.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_57.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_58.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_58.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_59.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_59.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_60.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_60.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_61.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_61.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_62.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_62.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_63.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_63.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_64.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_65.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_65.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_66.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_66.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_67.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_67.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_68.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_68.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_69.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_69.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_70.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_70.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_71.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_71.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_72.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_72.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expressions/Task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCodeCamp/Regular_Expressions/Task_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +402,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="FreeCodeCamp" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,51 +427,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Finish_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_19 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_42.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_50.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_52.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_54.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_55.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_67.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;FreeCodeCamp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Finish_code.executor": "Run",
+    "Python.Task 25.executor": "Run",
+    "Python.Task 30.executor": "Run",
+    "Python.Task_1.executor": "Run",
+    "Python.Task_10.executor": "Run",
+    "Python.Task_12.executor": "Run",
+    "Python.Task_15.executor": "Run",
+    "Python.Task_19 (1).executor": "Run",
+    "Python.Task_2.executor": "Run",
+    "Python.Task_20.executor": "Run",
+    "Python.Task_21.executor": "Run",
+    "Python.Task_30.executor": "Run",
+    "Python.Task_31.executor": "Run",
+    "Python.Task_34.executor": "Run",
+    "Python.Task_35.executor": "Run",
+    "Python.Task_42.executor": "Run",
+    "Python.Task_5.executor": "Run",
+    "Python.Task_50.executor": "Run",
+    "Python.Task_52.executor": "Run",
+    "Python.Task_54.executor": "Run",
+    "Python.Task_55.executor": "Run",
+    "Python.Task_59.executor": "Run",
+    "Python.Task_67.executor": "Run",
+    "Python.Task_7.executor": "Run",
+    "Python.Task_8.executor": "Run",
+    "Python.Task_9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "SystemProgramming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\A\PycharmProjects\PythonHome\FreeCodeCamp" />
       <recent name="C:\Users\A\PycharmProjects\PythonHome\Pathfinding_Algorithm" />
       <recent name="C:\Users\A\PycharmProjects\PythonHome\Luhn_Algorithm" />
       <recent name="C:\Users\A\PycharmProjects\PythonHome\Learn string manipulation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_30">
-    <configuration name="Task_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task_2">
+    <configuration name="Task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +485,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SystemProgramming/PracticalWork1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SystemProgramming/PracticalWork1/Task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +498,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +507,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_Recursion/Task_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +520,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +529,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SystemProgramming/PracticalWork1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SystemProgramming/PracticalWork1/Task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +542,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +551,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pathfinding_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_Recursion/Task_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +564,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_59" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,7 +577,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pathfinding_Algorithm/Task_59.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,11 +588,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_30" />
-        <item itemvalue="Python.Task_12" />
-        <item itemvalue="Python.Task_15" />
-        <item itemvalue="Python.Task_9" />
-        <item itemvalue="Python.Task_7" />
+        <item itemvalue="Python.Task_2" />
+        <item itemvalue="Python.Task_1" />
+        <item itemvalue="Python.Task_10" />
+        <item itemvalue="Python.Task_5" />
+        <item itemvalue="Python.Task_59" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +748,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757568687054</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="All done: P_Algorithm">
+      <option name="closed" value="true" />
+      <created>1758523712030</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758523712032</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,18 +784,19 @@
     <MESSAGE value="All done: List_Comprehensions" />
     <MESSAGE value="All done: Bisection_Root" />
     <MESSAGE value="All done: Regular_E" />
-    <option name="LAST_COMMIT_MESSAGE" value="All done: Regular_E" />
+    <MESSAGE value="All done: P_Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="All done: P_Algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Learn_string_manipulation/Task_34.py</url>
+          <url>file://$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_34.py</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Learn_string_manipulation/Task_53.py</url>
+          <url>file://$PROJECT_DIR$/FreeCodeCamp/Learn_string_manipulation/Task_53.py</url>
           <line>28</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
